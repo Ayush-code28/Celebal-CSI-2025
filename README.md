@@ -3,8 +3,7 @@
 **Intern Name:** Ayush Sharma  
 **Internship Domain:** App Modernization  
 **Organization:** Celebal Technologies  
-**Duration:** [Start Date] – [End Date]  
-**Mode:** [Online / Offline / Hybrid]
+**Duration:** [3rd June,2025] – [End Date]  
 
 ---
 
@@ -18,25 +17,15 @@ This repository documents my journey as an intern under the CSI 2025 program at 
 
 | Week | Title | Description | Link |
 |------|-------|-------------|------|
-| 1 | Introduction to App Modernization | Explored key concepts, benefits, and migration strategies. | [Week 1](./Week1) |
-| 2 | Legacy System Analysis | Identified bottlenecks and improvement areas in a sample monolithic app. | [Week 2](./Week2) |
-| 3 | Microservices Architecture | Re-architected part of a monolithic system into microservices. | [Week 3](./Week3) |
-| 4 | Containerization with Docker | Containerized modernized services using Docker. | [Week 4](./Week4) |
-| 5 | Cloud Deployment (Azure/AWS) | Deployed containerized apps to the cloud using CI/CD pipelines. | [Week 5](./Week5) |
-| 6 | Final Integration & Report | Integrated all modules and submitted the final report. | [Week 6](./Week6) |
-
-> 📁 Each folder contains detailed documentation, code, and screenshots for the weekly task.
-
+| 1 | Introduction to App Modernization | Explored key concepts, benefits, and migration strategies. | [Week 1](https://github.com/Ayush-code28/Celebal-CSI-2025/blob/main/Assignment%201) |
+| 2    | Links and Multimedia          | Adding hyperlinks, images, audio, and video content to web pages. | [Week 2](./Week-2) |
+| 3    | Introduction to CSS           | Styling web pages using Cascading Style Sheets.                    | [Week 3](./Week-3) |
+| 4    | Layout                        | Page layout techniques using flexbox, grid, and positioning.       | [Week 4](./Week-4) |
+| 5    | Introduction to JavaScript    | JavaScript basics for interactivity and logic.                     | [Week 5](./Week-5) |
+| 6    | Arrays                        | Working with arrays and manipulating data in JS.                   | [Week 6](./Week-6) |
+| 7    | Functions                     | Writing and using functions in JavaScript.                         | [Week 7](./Week-7) |
+| 8    | Git                           | Version control using Git and GitHub.   
 ---
-
-## 💡 Skills Gained
-
-- Understanding of app modernization lifecycle
-- Working with microservices architecture
-- Docker and containerization
-- CI/CD pipelines
-- Cloud platforms like Azure / AWS
-- Git version control and collaboration
 
 ---
 
@@ -46,7 +35,7 @@ This repository documents my journey as an intern under the CSI 2025 program at 
 - **Backend:** Node.js / Java / .NET (based on project requirement)  
 - **Containerization:** Docker  
 - **Cloud:** Azure / AWS  
-- **Tools:** Git, GitHub, VS Code, Postman, Jenkins / GitHub Actions
+- **Tools:** Git, GitHub, VS Code, GitHub Actions
 
 ---
 
