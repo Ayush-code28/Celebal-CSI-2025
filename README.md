@@ -32,9 +32,7 @@ This repository documents my journey as an intern under the CSI 2025 program at 
 ## 📎 Tech Stack
 
 - **Frontend:** HTML, CSS, React (if applicable)  
-- **Backend:** Node.js / Java / .NET (based on project requirement)  
-- **Containerization:** Docker  
-- **Cloud:** Azure / AWS  
+- **Backend:** Node.js / Java / Express  
 - **Tools:** Git, GitHub, VS Code, GitHub Actions
 
 ---
